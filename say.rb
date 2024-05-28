@@ -1,6 +1,9 @@
 def say(words)
- puts words
+ puts words + '.'
   # method body goes here
 end
 
-say("how are you toda?")
+say("hello")
+say("hi")
+say("how are you")
+say("i'm fine")
